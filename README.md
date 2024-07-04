@@ -6,14 +6,14 @@ In this thesis we explored the kurtosis of momentum, and 'momentum crashes' both
 
 ## Autocorrelation
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Autocorrelation%20matrix%20return.png" alt="Autocorrelation matrix for absolute returns" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Autocorrelation%20matrix%20return.png" alt="Autocorrelation matrix for absolute returns" width="300">
 </p>
 <p align="center"><b>Autocorrelation matrix for absolute returns</b></p>
 
 The correlation matrix for absolute returns shows positive autocorrelation for shorter time-periods (1 to 3-months) but a negative for longer time-periods (especially 2 to 4-years). However, this not only captures the time-series component of individual fund returns but also the time-series component of the market as a whole. This correlation matrix is therefore of more interest examining the strengths and lengths of market cycles rather than momentum in fund-specific returns.
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Autocorrelation%20matrix%20excess%20return.png" alt="Autocorrelation matrix for excess returns" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Autocorrelation%20matrix%20excess%20return.png" alt="Autocorrelation matrix for excess returns" width="300">
 </p>
 <p align="center"><b>Autocorrelation matrix for excess returns</b></p>
 
@@ -29,7 +29,7 @@ In the simplest model, future returns are expected to be a function of past retu
 | US Small-Cap                          | _US Small-Cap Value Equity_ | _US Small-Cap Growth Equity_ |
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png" alt="Momentum coefficient over time for singlefactor model" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Singlefactor%20model.png" alt="Momentum coefficient over time for singlefactor model" width="300">
 </p>
 <p align="center"><b>Momentum coefficient over time for singlefactor model</b></p>
 
@@ -37,31 +37,31 @@ In the simplest model, future returns are expected to be a function of past retu
 In a multifactor model, size and style are included as independent variables instead of splitting dataset based on Morningstar category. This enables to capture differences within categories and include all funds in the same regression model.
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Size%20distribution.png" alt="Distribution of max-min standardized size factors split per Morningstar category" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Size%20distribution.png" alt="Distribution of max-min standardized size factors split per Morningstar category" width="300">
 </p>
 <p align="center"><b>Distribution of max-min standardized size factors split per Morningstar category</b></p>
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Style%20distribution.png" alt="Distribution of max-min standardized style factors split per Morningstar category" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Style%20distribution.png" alt="Distribution of max-min standardized style factors split per Morningstar category" width="300">
 </p>
 <p align="center"><b>Distribution of max-min standardized style factors split per Morningstar category</b></p>
 
 The results shows the predictive power of momentum (positive and significant coefficient) but also the kurtosis of momentum, and 'momentum crashes' both from 2008 as discussed in previous research but also in the light of recent covid-19 stock crash.
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Multifactor%20model.png" alt="Momentum coefficient over time for multifactor model" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Multifactor%20model.png" alt="Momentum coefficient over time for multifactor model" width="300">
 </p>
 <p align="center"><b>Momentum coefficient over time for multifactor model</b></p>
 
 ## Carhart Four-Factor model
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Average%20Excess%20Return%20for%20each%20Decile.png" alt="Average yearly excess returns for each decile" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Average%20Excess%20Return%20for%20each%20Decile.png" alt="Average yearly excess returns for each decile" width="300">
 </p>
 <p align="center"><b>Average yearly excess returns for each decile</b></p>
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Carhart%20Four-Factor%20model.png" alt="Post-formation returns on portfolios of mutual funds sorted on lagged one-year return (Carhart, 1997)" width="600">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Carhart%20Four-Factor%20model.png" alt="Post-formation returns on portfolios of mutual funds sorted on lagged one-year return (Carhart, 1997)" width="300">
 </p>
 <p align="center"><b>Post-formation returns on portfolios of mutual funds sorted on lagged one-year return (Carhart, 1997)</b></p>
 

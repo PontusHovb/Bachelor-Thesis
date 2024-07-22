@@ -37,7 +37,7 @@ In the simplest model, future returns are expected to be a function of past retu
 In a multifactor model, size and style are included as independent variables instead of splitting dataset based on Morningstar category. This enables to capture differences within categories and include all funds in the same regression model.
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Factor%20distribution.png" alt="Distribution of max-min standardized size factors split per Morningstar category" width="400">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Factor%20distribution.png" alt="Distribution of max-min standardized factors split per Morningstar category" width="800">
 </p>
 <p align="center">Figure 4: <i>Distribution of max-min standardized factors split per Morningstar category</i></p>
 
@@ -51,7 +51,7 @@ The results shows the predictive power of momentum (positive and significant coe
 ## Carhart Four-Factor model
 
 <p align="center">
-  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Momentum%20longevity.png" alt="Average yearly excess returns for each decile" width="400">
+  <img src="https://github.com/PontusHovb/Bachelor-Thesis/blob/main/Figures/Momentum%20longevity.png" alt="Average yearly excess returns for each decile" width="800">
 </p>
 <p align="center">Figure 6: <i>Portfolios of mutual funds sorted on lagged one-year return, bachelor thesis to the left (data from 2020-2023), Carhart 197 to the right (data from 1962-1987)</i></p>
 
